@@ -1,0 +1,11 @@
+Model Information:
+* title:	Liverpool FC logo
+* source:	https://sketchfab.com/3d-models/liverpool-fc-logo-7fcc99eef3a642dea34983ae0a50ceb5
+* author:	Gjuroo (https://sketchfab.com/gjuroo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Liverpool FC logo" (https://sketchfab.com/3d-models/liverpool-fc-logo-7fcc99eef3a642dea34983ae0a50ceb5) by Gjuroo (https://sketchfab.com/gjuroo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
